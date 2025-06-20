@@ -1,3 +1,3 @@
 this is a test file 
---------
-
+-------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor metus, finibus tempor mauris vitae, gravida feugiat nibh. Aliquam vitae dui viverra, accumsan lacus et, tempus dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus a velit erat. Fusce faucibus dignissim ante, vel convallis lorem scelerisque ac. Sed nec lectus magna. Nullam ullamcorper odio et purus porta accumsan.

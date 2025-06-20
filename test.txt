@@ -11,7 +11,12 @@ this is a commit from main
 ---------
 this is a comit to feature branch
 ------1st commit
-----bc040fe (1st commit to feature branch)
+----bc040fe (1st commit to feature branch
+
+
+-------
+this is the second commit to feature branch
+----- 8f61b98 (2nd commit to feature branch)
 Ut et lorem sit amet nibh consequat auctor at et erat. Morbi tellus quam, bibendum ac elit id, varius porttitor est. Nam volutpat nisi felis, maximus rhoncus tortor rutrum et. Etiam ultrices justo nisl, ut efficitur magna efficitur non. Pellentesque convallis cursus elit ac iaculis. Nunc vitae sem et massa porttitor mollis. Aenean neque magna, pulvinar eu vestibulum quis, ullamcorper sit amet dui. Ut eget elit vitae urna aliquet dictum quis aliquet eros.
 
 ---

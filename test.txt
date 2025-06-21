@@ -32,3 +32,4 @@ Vestibulum aliquet tortor sed quam interdum, a fringilla nunc porttitor. Praesen
 
 this is a text for git rebase
 this is 2nd text for git rebase
+this is commit for git rebase for git log
